@@ -1,0 +1,8 @@
+baseURL = "https://recipesbook.netlify.com/"
+languageCode = "en-uk"
+title = "Walker-Byatt Cookbook"
+theme = "recipes"
+
+[params]
+  author = "Emma and James"
+  description = "The Walker-Byatt Cookbook"
