@@ -6,7 +6,7 @@ date: 2019-02-05T08:11:45-05:00
 draft: false
 time: "40m"
 tags: ["anchovy", "pasta"]
-featured_image: "/diybeyondburger.jpg"
+featured_image: "/puttanesca.jpg"
 ---
 
 ## Ingredients
