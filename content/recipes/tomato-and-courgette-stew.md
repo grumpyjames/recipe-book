@@ -6,7 +6,7 @@ date: 2019-08-19T10:10:45-05:00
 draft: false
 time: "25m"
 tags: ["courgette", "vegetarian"]
-featured_image: "/tomato-and-courgette-stew.jpg"
+featured_image: "/zucchini-pasta.jpg"
 ---
 
 Serves 4
